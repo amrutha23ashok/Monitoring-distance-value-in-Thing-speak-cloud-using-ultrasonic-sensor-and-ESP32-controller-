@@ -100,7 +100,7 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include "ThingSpeak.h"
 #include <WiFi.h>
 
-char ssid[] = "Aakash"; //SSID
+char ssid[] = "amrutha"; //SSID
 char pass[] = "zxcvbnm"; // Password
 
 
